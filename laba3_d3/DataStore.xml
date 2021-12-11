@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Data>
+    <student>
+        <ID>0</ID>
+        <name>Anastasia</name>
+        <surname>Kostratskaya</surname>
+        <age>19</age>
+        <studentID>20007651</studentID>
+    </student>
+    <student>
+        <ID>1</ID>
+        <name>Angel</name>
+        <surname>Afonina</surname>
+        <age>20</age>
+        <studentID>20307259</studentID>
+    </student>
+    <student>
+        <ID>2</ID>
+        <name>Diana</name>
+        <surname>Pugachova</surname>
+        <age>20</age>
+        <studentID>34447651</studentID>
+    </student>
+    <student>
+        <ID>3</ID>
+        <name>Lera</name>
+        <surname>Zagaevskaya</surname>
+        <age>21</age>
+        <studentID>20111234</studentID>
+    </student>
+    <student>
+        <ID>4</ID>
+        <name>Dima</name>
+        <surname>Skrobat</surname>
+        <age>17</age>
+        <studentID>20009876</studentID>
+    </student>
+</Data>
